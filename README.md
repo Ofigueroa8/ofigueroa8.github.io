@@ -1,6 +1,5 @@
-# ofigueroa8.github.io
+# WDylitics
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>Wdylitics Predictor</title>
