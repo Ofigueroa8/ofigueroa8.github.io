@@ -6,9 +6,12 @@
     </head>
 
     Second Test
-    p {
-        color: red;
-    }
+    <style>
+        p {
+            color: red;
+        }
+    </style>
+    
     <body>
         <p>Testing</p>
         Third Test
