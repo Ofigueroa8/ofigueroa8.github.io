@@ -3,14 +3,16 @@
 <html>
     <head>
         <title>Wdylitics Predictor</title>
-    </head>
 
-    Second Test
-    <style>
+        <style>
         p {
             color: red;
         }
-    </style>
+        </style>
+    </head>
+
+    Second Test
+    
     
     <body>
         <p>Testing</p>
