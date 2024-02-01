@@ -1,4 +1,3 @@
-# WDylitics
 
 <html>
     <head>
@@ -11,7 +10,7 @@
         p {
             color: white;
         }
-        #b1 {
+        h1.big {
             color: white;
             border: 2px solid white;
             border-radius: 5px;
@@ -22,7 +21,7 @@
 
 
     <body>
-        <h1 class = "b1">
+        <h1 class="big">
             WDylitics
         </h1>
         
