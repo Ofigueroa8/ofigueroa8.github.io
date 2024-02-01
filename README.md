@@ -15,6 +15,7 @@
             border: 2px solid white;
             border-radius: 5px;
             padding: 5px;
+            text-align: center;
         }
         </style>
     </head>
