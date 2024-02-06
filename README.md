@@ -8,8 +8,8 @@
             background-color: rgb(56,118,117);
         }
         p.around {
-            color: white;
-            border: 2px solid white;
+            color: black;
+            border: 2px solid black;
             border-radius: 5px;
             padding: 5px;
         }
