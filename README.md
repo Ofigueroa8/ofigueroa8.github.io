@@ -5,7 +5,7 @@
 
         <style>
         body {
-            background-color: rgb(95, 138, 105);
+            background-color: rgb(122, 106, 184);
         }
         p.around {
             color: white;
