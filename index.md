@@ -12,6 +12,8 @@
             border: 2px solid black;
             border-radius: 5px;
             padding: 5px;
+            margin-left: 0px;
+            margin-right: 0px;
         }
         h1.big {
             color: white;
@@ -20,6 +22,7 @@
             padding: 5px;
             text-align: left;
         }
+        
         </style>
     </head>
 
