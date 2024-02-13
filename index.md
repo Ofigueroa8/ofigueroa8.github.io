@@ -9,7 +9,7 @@
         }
         p.around {
             color: white;
-            border: 2px solid black;
+            border: 2px solid white;
             border-radius: 5px;
             padding: 5px;
             margin-left: 0px;
